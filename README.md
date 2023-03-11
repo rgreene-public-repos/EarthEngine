@@ -1,4 +1,4 @@
-# Presention of the use of Google Earth Engine 
+# Presentation of the use of Google Earth Engine 
 
 Demo presentation of using Google [Earth Engine](https://earthengine.google.com/) for business.
 
